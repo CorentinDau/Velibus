@@ -1,9 +1,9 @@
 # Velibus
 
 
-Ajouter la clé API Google Maps à votre fichier local.properties (Gradle) :
+## Ajouter la clé API Google Maps à votre fichier local.properties (Gradle) :
 
-MAPS_API_KEY= AIzaSyDsd14fFhWjz0D0ENR2LyX2r3y-JlLTGTk
+## MAPS_API_KEY= AIzaSyDsd14fFhWjz0D0ENR2LyX2r3y-JlLTGTk
 
 
 
